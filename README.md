@@ -1,1 +1,2 @@
-# ETH-Staking-Token
+# Staking Contract
+
